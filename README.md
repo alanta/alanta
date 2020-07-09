@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🔭 I’m currently working on
+
+* Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [the project](https://github.com/alanta/Kontent.Statiq)
+
+### 📫 How to reach me:
+
+* on twitter [@marnixvanvalen](https://twitter.com/marnixvanvalen)
+* E-mail marnix at alanta dot nl
 
 <!--
 **alanta/alanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
