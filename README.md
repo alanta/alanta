@@ -1,3 +1,10 @@
+     __  __                  _                          __     __    _            
+    |  \/  | __ _ _ __ _ __ (_)_  __ __   ____ _ _ __   \ \   / /_ _| | ___ _ __  
+    | |\/| |/ _` | '__| '_ \| \ \/ / \ \ / / _` | '_ \   \ \ / / _` | |/ _ \ '_ \ 
+    | |  | | (_| | |  | | | | |>  <   \ V / (_| | | | |   \ V / (_| | |  __/ | | |
+    |_|  |_|\__,_|_|  |_| |_|_/_/\_\   \_/ \__,_|_| |_|    \_/ \__,_|_|\___|_| |_|
+                                                                               
+
 ### 🔭 I’m currently working on
 
 * Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [the project](https://github.com/alanta/Kontent.Statiq)
