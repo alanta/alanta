@@ -8,6 +8,17 @@
 ### 🔭 I’m currently working on
 
 * Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [the project](https://github.com/alanta/Kontent.Statiq)
+* Porting over the Memoirs theme from Jekyl to Kontent and Statiq. [Memoirs-Theme](https://github.com/alanta/Memoirs-Theme)
+
+### 🌱 I’m currently learning:
+
+* Machine learning
+* Running ML models on IOT devices with Tensor Flow Lite and TinyML
+* Running [Zephyr](https://www.zephyrproject.org/) on [Adafruit](https://github.com/adafruit) boards 
+
+### ⚡ Fun fact:
+
+* Alanta doesn't really mean anything. It's just a name my mome came up with when I wanted to start my own company (once upon a time, a long time ago...)
 
 ### 📫 How to reach me:
 
