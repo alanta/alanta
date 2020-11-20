@@ -18,7 +18,7 @@
 
 ### ⚡ Fun fact:
 
-* Alanta doesn't really mean anything. It's just a name my mome came up with when I wanted to start my own company (once upon a time, a long time ago...)
+* Alanta doesn't really mean anything. It's just a name my mom came up with when I wanted to start my own company (once upon a time, a long time ago...)
 
 ### 📫 How to reach me:
 
