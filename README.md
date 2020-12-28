@@ -8,7 +8,9 @@
 ### 🔭 I’m currently working on
 
 * Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [the project](https://github.com/alanta/Kontent.Statiq)
-* Porting over the Memoirs theme from Jekyl to Kontent and Statiq. [Memoirs-Theme](https://github.com/alanta/Memoirs-Theme)
+* Porting over the themes from Jekyl to Kontent and Statiq:
+  * [Memoirs-Theme](https://github.com/alanta/Memoirs-Theme)
+  * [Planty](https://github.com/alanta/kontent-statiq-planty-theme)
 
 ### 🌱 I’m currently learning:
 
