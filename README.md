@@ -15,9 +15,9 @@
 
 ### 🌱 I’m currently learning:
 
-* Machine learning
+* Rust
 * Running ML models on IOT devices with Tensor Flow Lite and TinyML
-* Running [Zephyr](https://www.zephyrproject.org/) on [Adafruit](https://github.com/adafruit) boards 
+* Circuit Python
 
 ### ⚡ Fun fact:
 
@@ -26,6 +26,7 @@
 ### 📫 How to reach me:
 
 * on twitter [@marnixvanvalen](https://twitter.com/marnixvanvalen)
+* on mastodon [@marnix@mastodon.cloud](https://mastodon.cloud/@marnix)
 * E-mail marnix at alanta dot nl
 
 <!--
