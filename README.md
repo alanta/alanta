@@ -16,7 +16,6 @@
 ### 🌱 I’m currently learning:
 
 * Rust
-* Running ML models on IOT devices with Tensor Flow Lite and TinyML
 * Circuit Python
 
 ### ⚡ Fun fact:
@@ -29,6 +28,8 @@
 * on mastodon [@marnix@mastodon.cloud](https://mastodon.cloud/@marnix)
 * E-mail marnix at alanta dot nl
 
+### 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanta&show_icons=true&theme=dark)
 <!--
 **alanta/alanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
