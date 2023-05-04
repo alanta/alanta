@@ -27,9 +27,6 @@
 * on twitter [@marnixvanvalen](https://twitter.com/marnixvanvalen)
 * on mastodon [@marnix@mastodon.cloud](https://mastodon.cloud/@marnix)
 * E-mail marnix at alanta dot nl
-
-### 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alanta&show_icons=true&theme=dark)
 <!--
 **alanta/alanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
