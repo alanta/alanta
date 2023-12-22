@@ -6,17 +6,17 @@
                                                                                
 
 ### 🔭 I’m currently working on
+* [Bolt Comments](https://github.com/alanta/bolt-comments) : Easy self-hosted comments for your Jamstack site. An Azure Static WebApp
 
+### ✨ Recent projects
 * Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [Kontent.Statiq](https://github.com/alanta/Kontent.Statiq)
-* [Bolt Comments](https://github.com/alanta/bolt-comments) : Easy self-hosted comments for your Jamstack site. An Azure Static WebApp 
 * Porting over the themes from Jekyl to Kontent and Statiq:
   * [Memoirs-Theme](https://github.com/alanta/Memoirs-Theme) - Blog / portfolio
   * [Planty](https://github.com/alanta/kontent-statiq-theme-planty) - E-Commerce
 
 ### 🌱 I’m currently learning:
-
-* Rust
-* Circuit Python
+* Public Key Infrastructure (PKI)
+* Running TCP services on Azure Container Apps
 
 ### ⚡ Fun fact:
 
