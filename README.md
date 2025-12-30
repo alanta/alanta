@@ -1,11 +1,8 @@
-     __  __                  _                          __     __    _            
-    |  \/  | __ _ _ __ _ __ (_)_  __ __   ____ _ _ __   \ \   / /_ _| | ___ _ __  
-    | |\/| |/ _` | '__| '_ \| \ \/ / \ \ / / _` | '_ \   \ \ / / _` | |/ _ \ '_ \ 
-    | |  | | (_| | |  | | | | |>  <   \ V / (_| | | | |   \ V / (_| | |  __/ | | |
-    |_|  |_|\__,_|_|  |_| |_|_/_/\_\   \_/ \__,_|_| |_|    \_/ \__,_|_|\___|_| |_|
-                                                                               
+Hi, I'm a long time tech nerd, started playing around with computers when I was a kid back in the 80s. I'm still fascinated
+by machine-to-machine interactions and autonomous systems.
 
 ### 🔭 I’m currently working on
+Besides my day job, I like to try to understand tech I work with when I get the time, after hours.
 * Trying to understand PKI in the dotnet & Azure landscape [KeyVault CA](https://github.com/alanta/keyvault-ca)
 * Implementing an Mail Transfer Agent (MTA) in dotnet
 
@@ -19,6 +16,7 @@
 ### 🌱 I’m currently learning:
 * Public Key Infrastructure (PKI)
 * Running TCP services on Azure Container Apps
+* Getting better at Python
 
 ### ⚡ Fun fact:
 
