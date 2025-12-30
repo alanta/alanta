@@ -6,9 +6,11 @@
                                                                                
 
 ### 🔭 I’m currently working on
-* [Bolt Comments](https://github.com/alanta/bolt-comments) : Easy self-hosted comments for your Jamstack site. An Azure Static WebApp
+* Trying to understand PKI in the dotnet & Azure landscape [KeyVault CA](https://github.com/alanta/keyvault-ca)
+* Implementing an Mail Transfer Agent (MTA) in dotnet
 
 ### ✨ Recent projects
+* [Bolt Comments](https://github.com/alanta/bolt-comments) : Easy self-hosted comments for your Jamstack site. An Azure Static WebApp
 * Static site generation with [Kentico Kontent](https://kontent.ai/) and [Statiq](https://statiq.dev/framework/). Checkout [Kontent.Statiq](https://github.com/alanta/Kontent.Statiq)
 * Porting over the themes from Jekyl to Kontent and Statiq:
   * [Memoirs-Theme](https://github.com/alanta/Memoirs-Theme) - Blog / portfolio
